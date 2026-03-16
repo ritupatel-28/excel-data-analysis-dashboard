@@ -9,3 +9,5 @@ Techniques used:
 -Data cleaning
 
 -Charts and trend analysis
+
+Project update
